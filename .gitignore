@@ -1,0 +1,8 @@
+obj/
+bin/
+.vs/
+.user
+src/bin/
+src/obj/
+src/.vs/
+src/packages/
