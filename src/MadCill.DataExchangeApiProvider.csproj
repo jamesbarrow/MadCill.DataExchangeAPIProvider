@@ -46,11 +46,11 @@
     <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>packages\Newtonsoft.Json.11.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
-    <Reference Include="Sitecore.DataExchange">
-      <HintPath>..\libs\Sitecore.DataExchange.dll</HintPath>
+    <Reference Include="Sitecore.DataExchange, Version=4.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Sitecore.DataExchange.4.0.0\lib\net471\Sitecore.DataExchange.dll</HintPath>
     </Reference>
-    <Reference Include="Sitecore.DataExchange.DataAccess">
-      <HintPath>..\libs\Sitecore.DataExchange.DataAccess.dll</HintPath>
+    <Reference Include="Sitecore.DataExchange.DataAccess, Version=4.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Sitecore.DataExchange.DataAccess.4.0.0\lib\net471\Sitecore.DataExchange.DataAccess.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.Kernel, Version=14.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>packages\Sitecore.Kernel.9.3.0\lib\net471\Sitecore.Kernel.dll</HintPath>
